@@ -1,0 +1,43 @@
+{
+    "usuarios": [
+      {
+        "id": 1,
+        "nombre": "Eduardo Jesús",
+        "apellido": "Zamora Valle",
+        "plantel": "LEÓN REFORMA",
+        "correo": "eduarzam1861@gmail.com",
+        "contrasena":"1x2h3c5o6v8l3f2a84913518g6t064f8769"
+      },
+      {
+        "id": 2,
+        "nombre": "Luis Carlos",
+        "apellido": "Ortiz Gomez",
+        "plantel": "LEÓN REFORMA",
+        "correo": "ortiz.gomez@gmail.com",
+        "contrasena":"z3xhe4goh5elf7gas8f132r8w4f046d8g8h"
+      },
+      {
+        "id": 3,
+        "nombre": "Juan Pablo",
+        "apellido": "Riuz Ornelas",
+        "plantel": "LEÓN JUAREZ",
+        "correo": "j.riuz@gmail.com",
+        "contrasena":"4v5hfe3o52fl2dfa43f134g8tdf0h228fd2"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
